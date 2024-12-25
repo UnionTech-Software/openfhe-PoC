@@ -1,0 +1,3 @@
+/home/oldsix/Desktop/openfhe-poc/poc1/build/CMakeFiles/test.dir
+/home/oldsix/Desktop/openfhe-poc/poc1/build/CMakeFiles/edit_cache.dir
+/home/oldsix/Desktop/openfhe-poc/poc1/build/CMakeFiles/rebuild_cache.dir
